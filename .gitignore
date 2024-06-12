@@ -1,0 +1,7 @@
+/bin
+/target
+/.settings
+/.idea
+*.iml
+*.bak
+src/main/java/com/maming/common/small/util/*
